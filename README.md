@@ -31,14 +31,8 @@ npm start
 Exemplo de saída:
 
 ``` bash
-    🔑 Senha segura gerada: 8a$Y6p@QvTz!mW3G
+🔑 Senha segura gerada: 8a$Y6p@QvTz!mW3G
 ```
-
-## 🛡️ Por que 16 caracteres?
-
-Senhas mais longas aumentam a **entropia** e tornam ataques de força
-bruta muito mais difíceis.
-Por isso, o gerador cria senhas fortes e confiáveis automaticamente.
 
 ## 📝 Licença
 
